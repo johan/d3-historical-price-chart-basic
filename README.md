@@ -1,13 +1,13 @@
-<h1 align="center">Basic historical price charts with D3.js</h1>
+<h1 align="center">Historical TSLA stock price charts with D3.js</h1>
 
 ### Basic Setup
 
-1.  `git clone https://github.com/wentjun/d3-historical-price-chart-basic`
+1.  `git clone git@github.com:johan/d3-historical-price-chart-basic`
 
-2.  `npm i`
+2.  `yarn`
 
-3.  `http-server docs`
+3.  `yarn start`
 
-Check out the full tutorial over <a href="https://medium.freecodecamp.org/how-to-build-historical-price-charts-with-d3-js-72214aaf6ba3" target="_blank">here</a>! 
+4.  See http://localhost:8000/#{"after":"2020-01-01"} or the period you want
 
-The main <a href="https://github.com/wentjun/d3-historical-prices">repository</a> contains the full version of this web application, which has more features.
+Or see original https://github.com/wentjun/d3-historical-price-chart-basic for tutorials and whatnot.

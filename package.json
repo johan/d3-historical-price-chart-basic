@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postinstall": "node fetch-tsla.js",
+    "start": "python -m http.server --directory docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wen Tjun",
